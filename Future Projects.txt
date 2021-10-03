@@ -1,0 +1,4 @@
+Website which compares food ordering services upon checkout
+- ubereats, menulog, etc
+
+todo list
